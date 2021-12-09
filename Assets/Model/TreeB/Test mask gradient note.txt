@@ -1,0 +1,5 @@
+The channel contain different masks for the color variation of the model TreeB.
+
+R - Shadow (dark gradient)
+G - Highlight (light gradient)
+B - Ambient occlusion
